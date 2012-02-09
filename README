@@ -1,0 +1,17 @@
+=== ただいま開発中... ===
+ライブラリ"Vogoo"をPHP5向けに書換えたものです。
+ロジックは出来るだけ流用しています。
+
+リファクタリングの中身（予定）
+- 例外処理への統一
+- PDOの採用
+
+
+=== Under development... ===
+
+This is a library "Vogoo" rewritten for PHP5.
+Logic has diverted as much as possible.
+
+The contents of refactoring 
+- Unification of exception handling
+- Adoption of PDO extension
